@@ -3,7 +3,7 @@
     {
       "id": "4",
       "name": "Nahid Pawaskar",
-      "department": "Pre Sales",
+      "department": "Testing",
       "age": "29",
       "gender": "Female",
       "salary": "14555",
@@ -12,7 +12,7 @@
     {
       "id": "5",
       "name": "Sruthi Narayan",
-      "department": "Tester",
+      "department": "Manager",
       "age": "22",
       "gender": "Female",
       "salary": "2500",
